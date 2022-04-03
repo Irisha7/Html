@@ -4,6 +4,7 @@ img {
 h1 {
     background: palevioletred;
     color: antiquewhite;
+    width: 200px;
 }
 h2 {
     background: goldenrod;
