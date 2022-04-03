@@ -1,0 +1,22 @@
+img {
+    width: 400px;
+}
+h1 {
+    background: palevioletred;
+    color: antiquewhite;
+}
+h2 {
+    background: goldenrod;
+}
+p {
+    background: darkslateblue;
+    color: gold;
+    text-align: justify;
+}
+ul {
+    background: antiquewhite;
+}
+li {
+    background: coral;
+}
+
