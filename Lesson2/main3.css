@@ -1,0 +1,26 @@
+.body {
+    margin: 0;
+}
+.main {
+    width: 100%;
+    height: 800px ;
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+.blok {
+    background: lightgray;
+    height: 750px;
+    width: 600px;
+}
+.widgets {
+    width: 100%;
+    height: 250px;
+    background: mediumslateblue;
+}
+.widgetsss {
+    display: flex;
+    justify-content: ;
+}
+
+

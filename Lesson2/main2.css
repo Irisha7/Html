@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+}
+.white-box {
+    height: 400px;
+    background:lightpink ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card {
+    width: 250px;
+    height: 300px;
+    background: white;
+    border: 2px solid violet ;
+    display: flex;
+    margin-left: 25px;
+    flex-direction: column;
+    align-items: center;
+}
+.tema {
+    color: darkviolet;
+    font-family: Consolas;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+
+}
+.text {
+    color: darkviolet;
+    font-family: Georgia;
+    display: block;
+    text-align: center;
+    padding-top: 40px;
+    line-height: 180%;
+}
+.knop {
+    width: 130px;
+    height: 35px;
+    color: darkviolet;
+    display: flex;
+    justify-content: center;
+    border: 2px solid plum;
+    font-size: 15px;
+    align-items: center;
+    margin-top: 15px;
+
+
+
+
+}
