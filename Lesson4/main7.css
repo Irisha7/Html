@@ -1,0 +1,36 @@
+.blok {
+    width: 1000px;
+    min-height: 700px;
+    background: mistyrose;
+    margin: 0 auto;
+}
+.a {
+    width: 100%;
+    height: 200px;
+    background: pink;
+}
+.container {
+    width: 100%;
+    height: 500px;
+    background: #fda0fd;
+    display: flex;
+}
+
+.bcdefg-blok {
+    width: 75%;
+    height: 500px;
+    background: #915dcb;
+    display: flex;
+}
+
+.boxi {
+    width: 33,3%;
+    height: 250px;
+    background: violet;
+}
+.h {
+    width: 25%;
+    height: 500px;
+    background: #340e5f;
+}
+
